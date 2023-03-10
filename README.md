@@ -53,7 +53,7 @@ posteriormente con la direccion del dns vamos a realizar la consulta en teste ca
 Versión 1.0
 
 ## Autor
-*[camiloarchila] Esteban Camilo Archila Bastidas 
+* [camiloarchila] Esteban Camilo Archila Bastidas 
 
 ## Descripcion Arquitectura
 
