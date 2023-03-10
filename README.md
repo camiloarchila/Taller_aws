@@ -49,12 +49,12 @@ posteriormente con la direccion del dns vamos a realizar la consulta en teste ca
 
 ![image](https://user-images.githubusercontent.com/69320250/224227846-36cb0ad0-73e6-455a-8f0a-327b5cc76101.png)
 
-##Version 
+## Version 
 Versión 1.0
 
-##Autor
+## Autor
 *[camiloarchila] Esteban Camilo Archila Bastidas 
 
-##Descripcion Arquitectura
+## Descripcion Arquitectura
 
 Se construyo un balanceador de carga con el metodo de RoundRobin que gestiona tres instancias de un servidor que almacena un registro y devuelve los ultimos 10 registros dentro de una base de datos mongo a la que esta conectado, cada una de las instancias tanto de los servidores como de la base de datos y el balanceador estan en contenedores que fueron desplegados en AWS.
