@@ -1,5 +1,19 @@
 # Taller_aws
 
+Es un proyecto que consiste en crear un balanceador de carga de unos contenedores que estan desplegados en aws
+
+# Iniciando
+
+## Prerequisitos
+
+* [Maven] - Administrador de dependencias
+* [Docker] - Gestor de contenedores
+* [AWS] - Servicio Cloud
+
+## Construccion
+
+
+
 ![image](https://user-images.githubusercontent.com/69320250/224228121-6596fde1-aaeb-442a-af9c-47eb06a35756.png)
 
 
